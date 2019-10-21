@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Yeong XQ</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="my_desc" >Foods I like : Ice Cream \n
+    \nHobbies: Play computer games, Dodgeball, and watching movies etc
+    \n
+    \nEducation:
+    \n \tSJK(C)Chee Wen
+    \n \tSMK USJ12
+    \n \tTAR UC
+
+    \n
+    \nWorking Experience:
+    \n \tBarista
+    \n \tPromoter
+    \n \tSales Assistant </string>
+
+</resources>
